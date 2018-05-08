@@ -1,0 +1,91 @@
+body {
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  background-color: #fff;
+      
+    line-height: 1.42857143;
+    color: #333;
+
+}
+.main-content{
+  background-color:#eee;
+  padding:48px 60px 48px 60px;
+  height:auto;
+  border-radius:6px;
+  width:88%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:60px;
+  margin-bottom:40px;
+  
+ }
+h1{
+  font-size:36px;
+}
+h2{
+  font-size:26px;
+  font-style: italic;
+}
+h3{
+  text-align:left;
+  font-size:24px;
+      margin-top: 20px;
+    margin-bottom: 10px;
+  margin-left:220px;
+  line-height:1.1;
+
+}
+h4{
+  margin-left:230px;
+  margin-right:150px;
+  margin-top:30px;
+}
+ul{
+  font-size:14px;
+  padding-left:5%;
+  padding-right:25%;
+  text-align:left;
+  line-height:1.42857143;
+}
+.image-box{
+  height:auto;
+  background-color:#eee;
+  width:100%;
+ 
+}
+.image-box1{
+ width:100%;
+ background-color:#fff;
+ vertical-align:center; 
+   margin:auto;
+  border:1px solid #eee; 
+  border-radius:1%;
+  
+}
+.image-box2{
+ width:99%;
+ margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+.norman-para{
+ 
+  margin-top:5px;
+}
+.bor-life{
+  
+  margin-bottom: 15px;
+font-size: 21px;
+font-weight: 200;
+  line-height: 1.42857143;
+  padding-left:5%;
+  padding-right:25%;
+}
+cite{
+  font-size: 60%;
+line-height: 1.42857143;
+color: #777;
+}
+footer::before{
+  content: '\2014 \00A0';
+  color: #777;
+}
