@@ -1,6 +1,16 @@
 body{
   background-color: #eee;
   margin:0;
+  font-family: helvetica;
+}
+ul a span{
+  display: block;
+  text-indent: -9999px;
+  padding-left: 22px;
+  background-repeat: no-repeat;
+  background-position: 0 50%;
+  background-image: url(/assets/icon-more-dots-8624bddd5cc1950979b7c8dc571cf95d0e314600a9f8e43d99a17b57877808b6.png);
+
 }
 header{
   max-width: 100%;
